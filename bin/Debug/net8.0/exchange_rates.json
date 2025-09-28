@@ -1,0 +1,32 @@
+[
+  {
+    "FromCurrency": "GEL",
+    "ToCurrency": "EUR",
+    "Rate": 0.32
+  },
+  {
+    "FromCurrency": "GEL",
+    "ToCurrency": "USD",
+    "Rate": 0.37
+  },
+  {
+    "FromCurrency": "GEL",
+    "ToCurrency": "LIRA",
+    "Rate": 15.4
+  },
+  {
+    "FromCurrency": "USD",
+    "ToCurrency": "GEL",
+    "Rate": 2.72
+  },
+  {
+    "FromCurrency": "EUR",
+    "ToCurrency": "GEL",
+    "Rate": 3.16
+  },
+  {
+    "FromCurrency": "LIRA",
+    "ToCurrency": "GEL",
+    "Rate": 0.06
+  }
+]

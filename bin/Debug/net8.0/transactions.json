@@ -1,0 +1,101 @@
+[
+  {
+    "CardNumber": "1234567890123456",
+    "Date": "2025-09-28T00:08:56.6440933+04:00",
+    "Type": "Deposit",
+    "Amount": 1000.0,
+    "Currency": "GEL",
+    "BalanceAfter": 2570.76,
+    "Description": "Cash deposit"
+  },
+  {
+    "CardNumber": "1234567890123456",
+    "Date": "2025-09-28T13:25:01.1787036+04:00",
+    "Type": "Deposit",
+    "Amount": 12.0,
+    "Currency": "GEL",
+    "BalanceAfter": 1582.76,
+    "Description": "Cash deposit"
+  },
+  {
+    "CardNumber": "1234567890123456",
+    "Date": "2025-09-28T13:25:18.8768723+04:00",
+    "Type": "Withdrawal",
+    "Amount": 120.0,
+    "Currency": "GEL",
+    "BalanceAfter": 1462.76,
+    "Description": "Cash withdrawal"
+  },
+  {
+    "CardNumber": "1234567890123456",
+    "Date": "2025-09-28T13:26:56.0583934+04:00",
+    "Type": "Deposit",
+    "Amount": 1221.0,
+    "Currency": "GEL",
+    "BalanceAfter": 2791.76,
+    "Description": "Cash deposit"
+  },
+  {
+    "CardNumber": "TEST123456789",
+    "Date": "2025-09-28T13:34:55.2729653+04:00",
+    "Type": "Deposit",
+    "Amount": 100.50,
+    "Currency": "GEL",
+    "BalanceAfter": 500.50,
+    "Description": "Test deposit for verification"
+  },
+  {
+    "CardNumber": "TEST123456789",
+    "Date": "2025-09-28T13:34:55.2921005+04:00",
+    "Type": "Withdrawal",
+    "Amount": 25.25,
+    "Currency": "GEL",
+    "BalanceAfter": 475.25,
+    "Description": "Test withdrawal for verification"
+  },
+  {
+    "CardNumber": "TEST123456789",
+    "Date": "2025-09-28T13:34:55.3147696+04:00",
+    "Type": "Deposit",
+    "Amount": 50.00,
+    "Currency": "GEL",
+    "BalanceAfter": 1050.00,
+    "Description": "Simulated deposit operation"
+  },
+  {
+    "CardNumber": "1234567890123456",
+    "Date": "2025-09-28T13:35:37.6342938+04:00",
+    "Type": "Deposit",
+    "Amount": 1221.0,
+    "Currency": "GEL",
+    "BalanceAfter": 2791.76,
+    "Description": "Cash deposit"
+  },
+  {
+    "CardNumber": "1234567890123456",
+    "Date": "2025-09-28T13:35:45.4267359+04:00",
+    "Type": "Withdrawal",
+    "Amount": 560.0,
+    "Currency": "GEL",
+    "BalanceAfter": 2231.76,
+    "Description": "Cash withdrawal"
+  },
+  {
+    "CardNumber": "1234567890123456",
+    "Date": "2025-09-28T14:02:50.2068065+04:00",
+    "Type": "Deposit",
+    "Amount": 1023345.0,
+    "Currency": "GEL",
+    "BalanceAfter": 1134915.76,
+    "Description": "Cash deposit"
+  },
+  {
+    "CardNumber": "1234567890123456",
+    "Date": "2025-09-28T14:03:10.2700266+04:00",
+    "Type": "Currency Conversion",
+    "Amount": 1134915.76,
+    "Currency": "GEL",
+    "BalanceAfter": 419918.8312,
+    "Description": "Converted from 1,134,915.76 GEL to 419,918.83 USD"
+  }
+]

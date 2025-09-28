@@ -1,0 +1,18 @@
+[
+  {
+    "CardNumber": "1234567890123456",
+    "CVC": "987",
+    "ExpirationDate": "10/25",
+    "PIN": "1234",
+    "Balance": 924000000000000103091.38224,
+    "Currency": "GEL"
+  },
+  {
+    "CardNumber": "9876543210987654",
+    "CVC": "121",
+    "ExpirationDate": "01/26",
+    "PIN": "1212",
+    "Balance": 1010003451.94,
+    "Currency": "GEL"
+  }
+]
